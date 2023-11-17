@@ -46,3 +46,6 @@ streamlit.text(my_data_rows)
 
 
 
+#add
+
+my_cur.execute("insert into fruit_load_list values('from streamlit')")
